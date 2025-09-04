@@ -1,7 +1,7 @@
 ## Lionel Maydana : Fullstack 👋
 
 <!-- HEADER -->
-<div align="center" width="100" style="background:blue">
+<div align="center" width="100" height="50" style="background:blue">
   
 </div>
 
