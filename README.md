@@ -1,7 +1,7 @@
-## Lionel Maydana : Fullstack 👋
+## Lionel Maydana : Fullstack | Arduino | Networks 👋
 
 <!-- HEADER -->
-<div align="center" width="100" height="50" style="background:blue">
+<div align="center" width="100" height="50" style="background:blue;">
   
 </div>
 
