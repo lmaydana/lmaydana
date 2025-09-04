@@ -38,7 +38,7 @@
       src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
       alt="LinkedIn">
   </a>
-  <a href="https://stackoverflow.com/users/28383465/lionel-gabriel-maydana-gonzlez">
+  <a href="https://github.com/lmaydana">
     <img
       src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
       alt="LinkedIn">
