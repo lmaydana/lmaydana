@@ -9,7 +9,7 @@
 <div align="center" width="100">
   <h1>Statistic</h1>
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=lmaydana&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
+      src="https://github-readme-streak-stats.herokuapp.com?user=lmaydana"
       alt="lmaydana GitHub Streak">
   </br>
   <img
