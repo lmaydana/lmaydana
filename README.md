@@ -1,9 +1,9 @@
 ## Lionel Maydana : Fullstack | Arduino | Networks 👋
 
 <!-- HEADER -->
-<div align="center" width="100" height="50" style="background:blue;">
-  
-</div>
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=000FF0&text=Lionel%20Maydana&fontColor=FFFFFF"
+  alt="header"/>
 
 <!-- STATS -->
 <div align="center" width="100">
