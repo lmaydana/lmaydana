@@ -26,6 +26,13 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
+# 👨 About me...
+<div class="profile" align ="center" width="100">
+  <h2>
+  I love technology and invention since a child. Thats the reason for what i attended a technical hisghschool and learn about hardware, operative systems and networks. Follow those steps i'm currently finishing the third year of computer engineering at the university.
+  </h2>
+</div>
+
 <!-- STATS -->
 <div align="center" width="100">
   <h1>Statistic</h1>
@@ -66,13 +73,6 @@
   </a>
 
   </br>
-</div>
-
-# 👨 About me...
-<div class="profile" align ="center" width="100">
-  <h2>
-  I love technology and invention since a child. Thats the reason for what i attended a technical hisghschool and learn about hardware, operative systems and networks. Follow those steps i'm currently finishing the third year of computer engineering at the university.
-  </h2>
 </div>
 
 <!-- FOOTER -->
