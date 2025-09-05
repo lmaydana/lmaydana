@@ -1,9 +1,11 @@
 ## Lionel Maydana : Fullstack | Arduino | Networks 👋
-<style>
-  .profile{
-    background:blue;
-  }
-</style>
+<head>
+  <style>
+    .profile{
+      background:blue;
+    }
+  </style>
+</head>
 <!-- HEADER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=000FF0&text=Lionel%20Maydana&fontColor=FFFFFF"
@@ -88,5 +90,3 @@ USED:
 -->
 
 ------
-
-Credit: [Dum6o](https://github.com/Dum6o)
