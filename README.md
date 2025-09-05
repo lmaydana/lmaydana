@@ -7,7 +7,7 @@
 # 🌊 Professional Profile
 <div align ="center" width="100">
   <h1>
-  I'm always in search of the systems automatization. I like to take in count the whole business system and identify the different parts that can be improve.
+  I'm always in search of the systems automatization. I like to take in count the whole business system and identify the different parts that can be improved.
   </h1>
 </div>
   
