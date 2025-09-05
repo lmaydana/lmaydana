@@ -18,6 +18,7 @@
 ![JAVA](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-57FF54?style=for-the-badge&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 <!-- STATS -->
 <div align="center" width="100">
