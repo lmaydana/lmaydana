@@ -5,7 +5,7 @@
   alt="header"/>
 
 # 🌊 Professional Profile
-<div class="profile" align ="center" width="100">
+<div align ="center" width="100">
   <h1>
   I'm always in search of the systems automatization. I like to take in count the whole business system and identify the different parts that can be improve.
   </h1>
@@ -27,7 +27,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 # 👨 About me...
-<div class="profile" align ="center" width="100">
+<div align ="center" width="100">
   <h2>
   I love technology and invention since a child. Thats the reason for what i attended a technical hisghschool and learn about hardware, operative systems and networks. Follow those steps i'm currently finishing the third year of computer engineering at the university.
   </h2>
@@ -49,6 +49,7 @@
     alt="lmaydana GitHub Awards">
 </div>
 
+# 📱 Contact
 <div align="center">
   </br>
   <a href="https://www.linkedin.com/in/lionel-gabriel-maydana-gonzalez-14188834a/">
