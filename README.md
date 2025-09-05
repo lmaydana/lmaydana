@@ -1,12 +1,16 @@
 ## Lionel Maydana : Fullstack | Arduino | Networks 👋
-
+<style>
+  .profile{
+    background:blue;
+  }
+</style>
 <!-- HEADER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=000FF0&text=Lionel%20Maydana&fontColor=FFFFFF"
   alt="header"/>
 
 # 🌊 Professional Profile
-<div align ="center" width="100">
+<div class="profile" align ="center" width="100">
   I'm always in search of the systems automatization. I like to take in count the whole business system and identify the different parts that can be improve.
 </div>
   
