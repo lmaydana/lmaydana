@@ -4,6 +4,11 @@
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=000FF0&text=Lionel%20Maydana&fontColor=FFFFFF"
   alt="header"/>
+
+# Professional Profile
+<div align ="center" width="100">
+  I'm always in search of the systems automatization. I like to take in count the whole business system and identify the different parts that can be improve.
+</div>
   
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
